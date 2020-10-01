@@ -16,7 +16,7 @@ We also want to display data about the game on the screen so my ma' can play wit
     Using javascript DOM, update the .innerText of those elements
     At the end of the "skirmish" function, update the hp on the screen for both player and monster
 
- (Links to an external site.)Homework
+Homework
 
     Add a value to your user object called "has_potion" and set the value to true
     Add another button to the screen for 'drink potion'
