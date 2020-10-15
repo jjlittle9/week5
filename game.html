@@ -63,6 +63,7 @@
         return this.text.innerHTML = current_enemy + "<br>" + "Enemy HP: " + current_enemy_hp + "<br>" + hero +  "<br>" + " HP: " + current_hero_hp;
       }
     }
+    display.hud.call();
 
     var current_enemy_index = random(game.monsters.length);
     
